@@ -4,6 +4,16 @@
 
 Currently I am a student at VIT chennai as a undergrad student pursuring Btech in Computer science with specilization in Artificial inteligence and machine learning.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on: Weather prediction model with deployment using django 
+- 🌱 I’m currently learning: Machine learning, deep learning, AI and much more (P.S I love learning and keep exploring new things )
+- 👯 I’m looking to collaborate on anything Exciting & Innovating!. 
+- 🤔 I’m looking for suggestion and ideas on latest technologies coming up. 
+- 💬 Ask me about Technology
+- 📫 How to reach me: nihal.srivastava05@gmail.com
+- 😄 Pronouns: He/Him
+
 ### Tech Skills I use:
 <p align="center">
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -30,32 +40,14 @@ Currently I am a student at VIT chennai as a undergrad student pursuring Btech i
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
 </p>
+<br>
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical)
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical)
 
 ![Nihal's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihal-srivastava05&theme=dracula)
 
-### Connect with me on:
-<p align="center">
-<a href="https://www.linkedin.com/in/nihal-srivastava-7708a71b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.linkedin.com/in/nihal-srivastava-7708a71b7/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-</p>
+### Connect with me on: <a href="https://www.linkedin.com/in/nihal-srivastava-7708a71b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+
 
 ## ❤ Views and Followers:
 <img src="https://img.shields.io/github/followers/Nihal-Srivastava05?style=social" alt="GitHub bagde">
