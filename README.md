@@ -6,7 +6,7 @@ Currently I am a student at VIT chennai as a undergrad student pursuring Btech i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Weather prediction model with deployment using django 
+- 🔭 I’m currently working on: Sign Language Recognition
 - 🌱 I’m currently learning: Machine learning, deep learning, AI and much more (P.S I love learning and keep exploring new things )
 - 👯 I’m looking to collaborate on anything Exciting & Innovating!. 
 - 🤔 I’m looking for suggestion and ideas on latest technologies coming up. 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical)
 
-![Nihal's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihal-srivastava05&theme=dracula)
+<!-- ![Nihal's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihal-srivastava05&theme=dracula) -->
 
 ### Connect with me on: <a href="https://www.linkedin.com/in/nihal-srivastava-7708a71b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 
