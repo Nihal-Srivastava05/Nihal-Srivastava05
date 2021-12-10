@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 ### IDE's I use:
@@ -42,11 +43,15 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nihal-srivastava05)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nihal-srivastava05" >
+</P>
 
 <br>
+<!-- 
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical) -->
 
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical" alt="Stats" height="200" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical" alt="Languages" height="200" >
 
 <!-- ![Nihal's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihal-srivastava05&theme=dracula) -->
 
