@@ -6,7 +6,7 @@ Currently I am a student at VIT chennai as a undergrad student pursuring Btech i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Sign Language Recognition
+- 🔭 I’m currently working on: AI Agents
 - 🌱 I’m currently learning: Machine learning, deep learning, AI and much more (P.S I love learning and keep exploring new things )
 - 👯 I’m looking to collaborate on anything Exciting & Innovating!. 
 - 🤔 I’m looking for suggestion and ideas on latest technologies coming up. 
