@@ -48,10 +48,15 @@ Here are some ideas to get you started:
 </P>
 
 <br>
-<!-- 
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical" alt="Stats" height="200" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical" alt="Languages" height="200" >
+<!-- ![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical) -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nihal-srivastava05&show_icons=true&theme=radical" alt="Stats" width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-srivastava05&layout=compact&theme=radical" alt="Languages" width="400">
+<br> <br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nihal-Srivastava05&theme=nord_bright" alt="Profile Stats" align="center" width="800">
+ </P
 
 <!-- ![Nihal's github activity graph](https://activity-graph.herokuapp.com/graph?username=nihal-srivastava05&theme=dracula) -->
 
