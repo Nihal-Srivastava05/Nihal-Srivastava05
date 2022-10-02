@@ -6,11 +6,11 @@ Currently I am a student at VIT chennai as a undergrad student pursuring Btech i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Deep learning on Audio
-- 🌱 I’m currently learning: Deep learning, AI and much more (P.S I love learning and keep exploring new things )
+- 🔭 I’m currently working on: Deep learning on Audio Classification
+- 🌱 I’m currently learning: Deep learning, Transfer Learning, GANs, AI and much more (P.S I love learning and keep exploring new things )
 - 👯 I’m looking to collaborate on anything Exciting & Innovating!. 
 - 🤔 I’m looking for suggestion and ideas on latest technologies coming up. 
-- 💬 Ask me about Technology
+- 💬 Ask me about Machine Learning and Artificial Intelligence 
 - 📫 How to reach me: nihal.srivastava05@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -65,3 +65,5 @@ Here are some ideas to get you started:
 
 ## ❤ Views and Followers:
 <img src="https://img.shields.io/github/followers/Nihal-Srivastava05?style=social" alt="GitHub bagde">
+
+[![@nihalsrivastava's Holopin board](https://holopin.io/api/user/board?user=nihalsrivastava)](https://holopin.io/@nihalsrivastava)
