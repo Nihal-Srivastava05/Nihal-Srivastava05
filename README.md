@@ -2,17 +2,12 @@
 
 ## Hey👋, I'm Nihal Srivastava
 
-Currently I am a student at VIT chennai as a undergrad student pursuring Btech in Computer science with specilization in Artificial inteligence and machine learning.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Deep learning on Audio Classification
-- 🌱 I’m currently learning: Deep learning, Transfer Learning, GANs, AI and much more (P.S I love learning and keep exploring new things )
+<!-- - 🔭 I’m currently working on: Deep learning on Audio Classification
+- 🌱 I’m currently learning: Deep learning, Transfer Learning, GANs, AI and much more (P.S I love learning and keep exploring new things ) -->
 - 👯 I’m looking to collaborate on anything Exciting & Innovating!. 
 - 🤔 I’m looking for suggestion and ideas on latest technologies coming up. 
 - 💬 Ask me about Machine Learning and Artificial Intelligence 
 - 📫 How to reach me: nihal.srivastava05@gmail.com
-- 😄 Pronouns: He/Him
 
 ### Tech Skills I use:
 <p align="center">
@@ -32,16 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
-
-### IDE's I use:
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
-</p>
-<br>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nihal-srivastava05" >
